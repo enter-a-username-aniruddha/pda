@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1r8mpvNpvSBTn-K9CnW7NOgVzhQ_B-ezd
 """
 
-!pip install ta
-!pip install streamlit
-!pip install yfinance
-!pip install altair
+pip install ta
+pip install streamlit
+pip install yfinance
+pip install altair
 
 import pandas as pd
 import numpy as np
